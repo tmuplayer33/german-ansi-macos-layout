@@ -1,4 +1,4 @@
-# Simple German Keyboard Layout for ANSI Keyboard
+# Simple German Keyboard Layout for ANSI Keyboards
 Umlaute können mit dem option key + der entsprechenden Taste geschrieben werden. 
 Beispiel:
 
