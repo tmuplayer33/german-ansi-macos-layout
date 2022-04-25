@@ -7,7 +7,12 @@ option + a = ä
 option + o = ö
 option + s = ß
 ```
-Wenn zusätzlich Shift gedrückt wird, werden die Umalute groß geschrieben:
+Wenn zusätzlich Shift gedrückt wird, werden die Umlaute groß geschrieben:
 ```
 option + shift + a = Ä
+```
+
+Weitere mappings:
+```
+option + 4 = €
 ```
