@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.maxusumlaute</string>
+	<string>org.sil.ukelele.keyboardlayout.</string>
 	<key>CFBundleName</key>
-	<string>Max US Umlaute</string>
+	<string></string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_US - deutsche Umlaute</key>
+	<key>KLInfo_ANSI Eur</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.maxusumlaute.us-deutscheumlaute</string>
+		<string>org.sil.ukelele.keyboardlayout..ansieur</string>
 		<key>TISIntendedLanguage</key>
 		<string>de</string>
 	</dict>
